@@ -85,6 +85,3 @@ PIC16F877A-Washing-Machine-Simulation/
 - Interview and viva demonstrations
 - Learning real-time embedded system design
 - Appliance control system simulation
-```
-
----
